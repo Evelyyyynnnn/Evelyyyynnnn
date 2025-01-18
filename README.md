@@ -6,10 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-vickydu1213@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vickydu1213@gmail.com)](mailto:ishagupta2103@gmail.com)    <img src="https://komarev.com/ghpvc/?username=Evelyyyynnnn" alt="raghav-byte" /> ![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 
-
-<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
-
+<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <br>
 
