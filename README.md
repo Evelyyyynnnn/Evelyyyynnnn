@@ -8,18 +8,6 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 - *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
 <br>
 
-<a href="https://www.linkedin.com/in/evelyyyn-du/">
-  <img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.hackerrank.com/profile/vickydu1213">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/evelynduu">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<br>
-
-
 #### How to Introduce Me
 - ⚡ **Programmer**: I love coding and quantitative researching in financial industry:C++ / Python / R / Java
 - ✍️ **[Blogger](https://evelyn-english-post-site.vercel.app/): Writer at [hugo]( https://evelyyyynnnn.github.io/)**
@@ -32,4 +20,15 @@ Last Publication:
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://evelynid.vercel.app/)
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Evelyyyynnnn&show_icons=true&theme=dark)
+
+<a href="https://www.linkedin.com/in/evelyyyn-du/">
+  <img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/profile/vickydu1213">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.kaggle.com/evelynduu">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+
 
