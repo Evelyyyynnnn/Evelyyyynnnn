@@ -7,7 +7,6 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 - *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
 - *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
 <br>
-<br>
 
 <a href="https://www.linkedin.com/in/evelyyyn-du/">
   <img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
