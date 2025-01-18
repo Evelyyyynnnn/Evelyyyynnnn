@@ -1,6 +1,6 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 
-## Yoo, I'm Evelyn Du 👋 
+## I'm Evelyn Du 👋 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
@@ -52,4 +52,4 @@ Btw, I'm also an artist.
 ![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
 
-
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
