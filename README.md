@@ -6,8 +6,6 @@
 
 - 🍻 Graduate Student at 🇨🇳 [Cornell]( https://www.engineering.cornell.edu/), _[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)_
 - ⚡ C++ / Python / R / Java
-- 🖋 Writer at [hugo]( https://evelyyyynnnn.github.io/)
-- ✍️ [Blogger]( https://evelyn-english-post-site.vercel.app/)
-- 🏃 [Creator](https://jekyll-typing-artist.vercel.app/): [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / Painting / Kpop / Gym Exercise / Tennis / Cycling
-- 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess
+- ✍️ [Blogger]( https://evelyn-english-post-site.vercel.app/): Writer at [hugo]( https://evelyyyynnnn.github.io/)
+- 🏃 [Creator](https://jekyll-typing-artist.vercel.app/): [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / Painting / Kpop 
+- 🥋 Gamer : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
