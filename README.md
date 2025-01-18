@@ -14,24 +14,23 @@ I love coding and quantitative researching in financial industry.
 
 Btw, I'm also an artist.
 
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+
 #### How to Introduce Me
 - ⚡ **Programmer**:
-  
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![R](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+    ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+    ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+    ![R](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+    ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+    ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+    ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
+    ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+    ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+    `.cpp`, `.h`, `.hpp`, `.cc`, `.py`, `.pyc`, `.ipynb`,`.java`, `.class`, `.jar`,`.R`, `.Rmd`, `.rds`, `.RData`,`.sql`, `.db`, `.dump`, `.ddl`
 
--   **C++** .cpp`, `.h`, `.hpp`, `.cc`
--   **Python** ≈
--   **Java** `.java`, `.class`, `.jar`
--   **R** `.R`, `.Rmd`, `.rds`, `.RData`
--   **SQL** `.sql`, `.db`, `.dump`, `.ddl`
 - ✍️ **Blogger**: Writer at [hugo](https://evelyn-english-post-site.vercel.app/)
 - 🏃 **Creator**: [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / [Painting](https://jekyll-typing-artist.vercel.app/) / Kpop 
 - 🥋 **Gamer** : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
