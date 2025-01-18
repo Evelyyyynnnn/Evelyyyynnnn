@@ -1,6 +1,12 @@
 ## Yoo, I'm Evelyn Du 👋 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
+Welcome to my page.I'm Evelyn Du! 
+
+I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( https://www.engineering.cornell.edu/)
+- *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
+- *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
+
 <a href="https://www.linkedin.com/in/evelyyyn-du/">
   <img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,14 +18,6 @@
 </a>
 <br>
 <br>
-
-
-Welcome to my page.I'm Evelyn Du! 
-
-I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( https://www.engineering.cornell.edu/)
-- *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
-- *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
-
 
 #### How to Introduce Me
 - ⚡ **Programmer**: I love coding and quantitative researching in financial industry:C++ / Python / R / Java
