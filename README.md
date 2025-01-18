@@ -4,6 +4,12 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-vickydu1213@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vickydu1213@gmail.com)](mailto:ishagupta2103@gmail.com)    <img src="https://komarev.com/ghpvc/?username=Evelyyyynnnn" alt="raghav-byte" /> ![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 
+<div align="center">
+<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+</div>
+
+
 Welcome to my page.I'm Evelyn Du! 
 
 I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 Cornell
@@ -18,11 +24,6 @@ Btw, I'm also an artist.
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
-</div>
-
 
 <br>
 
@@ -30,7 +31,7 @@ Btw, I'm also an artist.
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![R](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
