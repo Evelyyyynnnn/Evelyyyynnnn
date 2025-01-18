@@ -17,9 +17,8 @@ Btw, I'm also an artist.
 #### How to Introduce Me
 - ⚡ **Programmer**:
   
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C):`.cpp`, `.h`, `.hpp`, `.cc`
-
-![Python](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C):`.cpp`, `.h`, `.hpp`, `.cc`
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Python](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![R](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
@@ -28,7 +27,7 @@ Btw, I'm also an artist.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
--   **C++** 
+-   **C++** .cpp`, `.h`, `.hpp`, `.cc`
 -   **Python** ≈
 -   **Java** `.java`, `.class`, `.jar`
 -   **R** `.R`, `.Rmd`, `.rds`, `.RData`
