@@ -27,7 +27,7 @@ Btw, I'm also an artist.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
   
-    `.cpp`, `.h`, `.hpp`, `.cc`, `.py`, `.pyc`, `.ipynb`,`.java`, `.class`, `.jar`,`.R`, `.Rmd`, `.rds`, `.RData`,`.sql`, `.db`, `.dump`, `.ddl`
+`.cpp`, `.h`, `.hpp`, `.cc`, `.py`, `.pyc`, `.ipynb`,`.java`, `.class`, `.jar`,`.R`, `.Rmd`, `.rds`, `.RData`,`.sql`, `.db`, `.dump`, `.ddl`
 
 - ✍️ **Blogger**: Writer at [hugo](https://evelyn-english-post-site.vercel.app/)
 - 🏃 **Creator**: [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / [Painting](https://jekyll-typing-artist.vercel.app/) / Kpop 
