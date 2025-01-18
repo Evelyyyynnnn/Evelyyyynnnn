@@ -14,12 +14,15 @@ I love coding and quantitative researching in financial industry.
 
 Btw, I'm also an artist.
 
+
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
 
 #### How to Introduce Me
 - ⚡ **Programmer**:
+  
     ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
     ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
     ![R](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
