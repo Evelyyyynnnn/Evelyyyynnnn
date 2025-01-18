@@ -6,12 +6,13 @@
 
 Welcome to my page.I'm Evelyn Du! 
 
-I love coding and quantitative researching in financial industry.btw,I'm also an artist
-
 I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( https://www.engineering.cornell.edu/)
 - *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
 - *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
-  
+
+I love coding and quantitative researching in financial industry.
+Btw,I'm also an artist
+
 #### How to Introduce Me
 - ⚡ **Programmer**: C++ / Python / R / Java
 - ✍️ **Blogger**: Writer at [hugo](https://evelyn-english-post-site.vercel.app/)
