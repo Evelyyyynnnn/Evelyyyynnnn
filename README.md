@@ -16,11 +16,11 @@ Btw, I'm also an artist.
 
 #### How to Introduce Me
 - ⚡ **Programmer**:
--   C++: `.cpp`, `.h`, `.hpp`, `.cc`
--   Python:`.py`, `.pyc`, `.ipynb`
--   Java: `.java`, `.class`, `.jar`
--   R: `.R`, `.Rmd`, `.rds`, `.RData`
--   SQL: `.sql`, `.db`, `.dump`, `.ddl`
+-   C++ `.cpp`, `.h`, `.hpp`, `.cc`
+-   Python `.py`, `.pyc`, `.ipynb`
+-   Java `.java`, `.class`, `.jar`
+-   R `.R`, `.Rmd`, `.rds`, `.RData`
+-   SQL `.sql`, `.db`, `.dump`, `.ddl`
 - ✍️ **Blogger**: Writer at [hugo](https://evelyn-english-post-site.vercel.app/)
 - 🏃 **Creator**: [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / [Painting](https://jekyll-typing-artist.vercel.app/) / Kpop 
 - 🥋 **Gamer** : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
