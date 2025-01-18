@@ -17,8 +17,6 @@ Btw, I'm also an artist.
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
-
-<div align="center">
   <a href="https://www.linkedin.com/in/evelyyyn-du/">
     <img alt="Evelyn's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -31,7 +29,7 @@ Btw, I'm also an artist.
   <a href="https://github.com/Evelyyyynnnn">
     <img alt="Evelyn's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-</div>
+</p>
 
 ⚡ **Programmer**
 
