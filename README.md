@@ -9,6 +9,7 @@ Welcome to my page.I'm Evelyn Du!
 
 I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( https://www.engineering.cornell.edu/)
 - _[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)_
+- [B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)
 
 I love coding and quantitative researching in financial industry.
 
