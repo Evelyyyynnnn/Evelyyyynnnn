@@ -15,7 +15,9 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 - 🥋 **Gamer** : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
 
 #### How to Contact Me
-- Linkedin<a href="https://www.linkedin.com/in/evelyyyn-du/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- Linkedin<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+
 - [hackerrank] <a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
 
 
