@@ -23,6 +23,7 @@ I love coding and quantitative researching in financial industry.
 Btw, I'm also an artist.
 
 <br>
+<br>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
