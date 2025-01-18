@@ -23,8 +23,9 @@ Btw, I'm also an artist.
 
 <br>
 
-<p align="center">
+<p align="center" style="font-size: 20px;">
   <i>Let's connect and chat! Open to anything under the sun.</i>
+</p>
 
 
 <br>
