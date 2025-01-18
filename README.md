@@ -2,10 +2,6 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<br>
-
-
 [![Gmail Badge](https://img.shields.io/badge/-vickydu1213@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vickydu1213@gmail.com)](mailto:ishagupta2103@gmail.com)    <img src="https://komarev.com/ghpvc/?username=Evelyyyynnnn" alt="raghav-byte" /> 
 
 Welcome to my page.I'm Evelyn Du! 
@@ -19,7 +15,6 @@ I love coding and quantitative researching in financial industry.
 Btw, I'm also an artist.
 
 
-#### How to Introduce Me
 - ⚡ **Programmer**:
   
     ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
@@ -43,6 +38,7 @@ Btw, I'm also an artist.
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
-
+<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<br>
 
 
