@@ -14,6 +14,14 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 - 🏃 **[Creator](https://jekyll-typing-artist.vercel.app/)**: [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / Painting / Kpop 
 - 🥋 **Gamer** : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
 
+#### How to Contact Me
+- [Linkedin] <a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+- [hackerrank] <a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
+
+
+<a href="https://www.kaggle.com/evelynduu">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 Last Publication:
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)]( https://github.com/Evelyyyynnnn)
@@ -21,14 +29,5 @@ Last Publication:
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Evelyyyynnnn&show_icons=true&theme=dark)
 
-<a href="https://www.linkedin.com/in/evelyyyn-du/">
-  <img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.hackerrank.com/profile/vickydu1213">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/evelynduu">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
 
 
