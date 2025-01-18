@@ -12,7 +12,7 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 
 I love coding and quantitative researching in financial industry.
 
-Btw,I'm also an artist
+Btw, I'm also an artist
 
 #### How to Introduce Me
 - ⚡ **Programmer**: C++ / Python / R / Java
