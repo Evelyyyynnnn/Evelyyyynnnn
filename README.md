@@ -11,6 +11,7 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 - *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
 
 I love coding and quantitative researching in financial industry.
+
 Btw,I'm also an artist
 
 #### How to Introduce Me
