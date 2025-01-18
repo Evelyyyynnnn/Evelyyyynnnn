@@ -23,7 +23,7 @@ Btw, I'm also an artist.
 
 <br>
 
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 40px; font-weight: bold;">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 </p>
 
