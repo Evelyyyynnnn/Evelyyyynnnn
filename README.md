@@ -14,6 +14,24 @@ I love coding and quantitative researching in financial industry.
 
 Btw, I'm also an artist.
 
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/evelyyyn-du/">
+    <img alt="Evelyn's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vickydu1213">
+    <img alt="Evelyn's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  </a>
+  <a href="https://www.kaggle.com/evelynduu">
+    <img alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  </a>
+  <a href="https://github.com/Evelyyyynnnn">
+    <img alt="Evelyn's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+</div>
 
 ⚡ **Programmer**
 
@@ -37,10 +55,5 @@ Btw, I'm also an artist.
 
 ![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<br>
 
 
