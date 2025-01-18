@@ -16,20 +16,13 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
 
 #### How to Contact Me
 - [Linkedin](https://www.linkedin.com/in/evelyyyn-du/)<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- [hackerrank](https://www.hackerrank.com/profile/vickydu1213)<a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+- [kaggle](https://www.kaggle.com/evelynduu)<a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+- [github](https://github.com/Evelyyyynnnn)<a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+- [RSS](https://evelynid.vercel.app/)<a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)" />
 
 
-- [hackerrank] <a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
-
-
-<a href="https://www.kaggle.com/evelynduu">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-Last Publication:
-
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)]( https://github.com/Evelyyyynnnn)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://evelynid.vercel.app/)
-
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Evelyyyynnnn&show_icons=true&theme=dark)
+![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
 
 
