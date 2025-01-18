@@ -6,6 +6,8 @@ Welcome to my page.I'm Evelyn Du!
 I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( https://www.engineering.cornell.edu/)
 - *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
 - *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
+<br>
+<br>
 
 <a href="https://www.linkedin.com/in/evelyyyn-du/">
   <img align="left" alt="Evelyn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,7 +19,7 @@ I was born in China 🇨🇳, now studies as a graduate at 🇺🇸 [Cornell]( h
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br>
-<br>
+
 
 #### How to Introduce Me
 - ⚡ **Programmer**: I love coding and quantitative researching in financial industry:C++ / Python / R / Java
