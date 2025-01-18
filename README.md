@@ -15,11 +15,6 @@ I love coding and quantitative researching in financial industry.
 Btw, I'm also an artist.
 
 
-
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-
 #### How to Introduce Me
 - ⚡ **Programmer**:
   
@@ -40,6 +35,10 @@ Btw, I'm also an artist.
 - 🥋 **Gamer** : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
 
 ![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
 
 
 
