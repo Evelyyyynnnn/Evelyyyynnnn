@@ -57,5 +57,5 @@ Btw, I'm also an artist.
 ![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=Evelyyyynnnn&show_icons=true&theme=dark)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Evelyyyynnnn/Evelyn-Artist-Portfolio&type=Date)](https://star-history.com/#Evelyyyynnnn/Evelyn-Artist-Portfolio&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Evelyyyynnnn/ProgrammingLearning&type=Date)](https://star-history.com/#Evelyyyynnnn/ProgrammingLearning&Date)
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
