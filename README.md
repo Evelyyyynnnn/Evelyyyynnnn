@@ -8,8 +8,16 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/Evelyyyynnnn](https://github.com/Evelyyyynnnn))](https://github.com/Evelyyyynnnn)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelyyyn-du/)](https://www.linkedin.com/in/evelyyyn-du/) 
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:wd275@cornell.edu)](mailto:wd275@cornell.edu)
+
+
+![LeetCode Score](https://raw.githubusercontent.com/kaiicheng/leetcode-score-tracker/main/badge.svg)
+
+
 ![LeetCode Score](https://raw.githubusercontent.com/evelyyyynnnn/leetcode-score-tracker/main/badge.svg)
-[![Codeforces](https://raw.githubusercontent.com/Evelyyyynnnn/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/Evelyyyynnnn)
+[![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/Evelyyyynnnn)
+
+
+
 [![Visitors](https://komarev.com/ghpvc/?username=Evelyyyynnnn)](https://github.com/Evelyyyynnnn/)
 
 
