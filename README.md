@@ -54,6 +54,7 @@ I am an upcoming summer intern as a Quantitative Researcher
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
 
+
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
 - 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
@@ -85,11 +86,6 @@ Btw, I'm also an artist.
 <br>
 <br>
 
-
-  
-
-
-![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=Evelyyyynnnn&show_icons=true&theme=dark)
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Evelyyyynnnn/ProgrammingLearning&type=Date)](https://star-history.com/#Evelyyyynnnn/ProgrammingLearning&Date)
