@@ -16,17 +16,14 @@
 Welcome to my page.
 
 I was born in China 🇨🇳, and I am now is an upcoming summer intern as the Quantitative Researcher
-- *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
-- *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
-
-Btw, I'm also an artist.
+- *[M.E.N.G in Operational Research and Informational Engineering of Cornell University](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
+- *[B.S. in Data Science and Accounting of Renmin University of China](https://mbaen.rmbs.ruc.edu.cn/)*
 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
 - 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
-- 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
-- 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
 
+Btw, I'm also an artist.
 
 <br>
 
