@@ -24,6 +24,15 @@ I am an upcoming summer intern as a Quantitative Researcher
 - *[M.E.N.G in Operational Research and Informational Engineering of Cornell University](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
 - *[B.S. in Data Science and Accounting of Renmin University of China](https://mbaen.rmbs.ruc.edu.cn/)*
 
+
+<br>
+
+<p align="center" style="font-size: 40px; font-weight: bold;">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+</p>
+
+<br>
+
 <b>💡 Skillset Zone</b>
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
@@ -37,11 +46,6 @@ Btw, I'm also an artist.
 - 🏃 **Creator**: [Photography](https://www.instagram.com/viii.iiicky?igsh=MWNpczJ3MmtlOGhnaA%3D%3D&utm_source=qr) / [Painting](https://jekyll-typing-artist.vercel.app/) / Kpop 🥋 
 - 🎮 **Gamer** : Gym Exercise / Tennis / Cycling / Chinese Chess / [Chess](https://papergames.io/zh/%E4%BA%94%E5%AD%90%E6%A3%8B)
 
-<br>
-
-<p align="center" style="font-size: 40px; font-weight: bold;">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-</p>
 
 <b>⚡ Developing Zone</b>
 
