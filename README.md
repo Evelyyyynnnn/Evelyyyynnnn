@@ -32,7 +32,6 @@ Btw, I'm also an artist.
   <i>Let's connect and chat! Open to anything under the sun.</i>
 </p>
 
-
 <b>⚡ Developing Zone</b>
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -43,7 +42,7 @@ Btw, I'm also an artist.
 <b>💻 Coding Zone</b>
 <p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img width="400em" height="290" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&radius=10&width=600&height=403=0&border=2" alt="LeetCode Stats"/>
-  <img width="400em" src="https://github.com/Evelyyyynnnn/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
+  <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </p>
 
 <br>
