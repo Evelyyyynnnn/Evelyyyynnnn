@@ -10,18 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:wd275@cornell.edu)](mailto:wd275@cornell.edu)
 ![LeetCode Score](https://raw.githubusercontent.com/kaiicheng/leetcode-score-tracker/main/badge.svg)
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/Evelyyyynnnn)
-
-
 [![Visitors](https://komarev.com/ghpvc/?username=Evelyyyynnnn)](https://github.com/Evelyyyynnnn/)
-
-
-<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/evelyyyynnnn/)](https://leetcode.com/evelyyyynnnn/) -->
-<!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/evelyyyynnnn/)](https://leetcode.com/evelyyyynnnn/) -->
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com/evelynnnnn.du/) -->
-<!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/evelyyyynnnn/)-->
-
-
-[![Gmail Badge](https://img.shields.io/badge/-vickydu1213@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vickydu1213@gmail.com)](mailto:ishagupta2103@gmail.com)    <img src="https://komarev.com/ghpvc/?username=Evelyyyynnnn" alt="raghav-byte" /> ![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 
 <a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
