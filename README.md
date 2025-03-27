@@ -4,17 +4,19 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
-[![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
-![LeetCode Score](https://raw.githubusercontent.com/kaiicheng/leetcode-score-tracker/main/badge.svg)
-[![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/kaiicheng)
-[![Visitors](https://komarev.com/ghpvc/?username=kaiicheng)](https://github.com/kaiicheng/)
-<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
-<!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
-<!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
+[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://evelyyyynnnn.github.io/))](https://evelyyyynnnn.github.io/)
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/Evelyyyynnnn](https://github.com/Evelyyyynnnn))](https://github.com/Evelyyyynnnn)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelyyyn-du/)](https://www.linkedin.com/in/evelyyyn-du/) 
+[![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:wd275@cornell.edu)](mailto:wd275@cornell.edu)
+![LeetCode Score](https://raw.githubusercontent.com/evelyyyynnnn/leetcode-score-tracker/main/badge.svg)
+[![Codeforces](https://raw.githubusercontent.com/Evelyyyynnnn/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/Evelyyyynnnn)
+[![Visitors](https://komarev.com/ghpvc/?username=Evelyyyynnnn)](https://github.com/Evelyyyynnnn/)
+
+
+<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/evelyyyynnnn/)](https://leetcode.com/evelyyyynnnn/) -->
+<!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/evelyyyynnnn/)](https://leetcode.com/evelyyyynnnn/) -->
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com/evelynnnnn.du/) -->
+<!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/evelyyyynnnn/)-->
 
 
 [![Gmail Badge](https://img.shields.io/badge/-vickydu1213@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vickydu1213@gmail.com)](mailto:ishagupta2103@gmail.com)    <img src="https://komarev.com/ghpvc/?username=Evelyyyynnnn" alt="raghav-byte" /> ![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
