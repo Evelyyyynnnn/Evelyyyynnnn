@@ -51,7 +51,6 @@ I am an upcoming summer intern as a Quantitative Researcher
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-`.cpp`, `.h`, `.hpp`, `.cc`, `.py`, `.pyc`, `.ipynb`,`.java`, `.class`, `.jar`,`.R`, `.Rmd`, `.rds`, `.RData`,`.sql`, `.db`, `.dump`, `.ddl`
 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
