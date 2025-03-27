@@ -12,7 +12,6 @@
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/Evelyyyynnnn)
 [![Visitors](https://komarev.com/ghpvc/?username=Evelyyyynnnn)](https://github.com/Evelyyyynnnn/)
 
-<br>
 
 Welcome to my page.
 
