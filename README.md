@@ -25,7 +25,7 @@ I am an upcoming summer intern as a Quantitative Researcher
 - *[B.S. in Data Science and Accounting of Renmin University of China](https://mbaen.rmbs.ruc.edu.cn/)*
 
 
-<be>
+<br>
 <br>
 
 <p align="center" style="font-size: 40px; font-weight: bold;">
