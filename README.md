@@ -12,7 +12,12 @@
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/Evelyyyynnnn)
 [![Visitors](https://komarev.com/ghpvc/?username=Evelyyyynnnn)](https://github.com/Evelyyyynnnn/)
 
-<a href="https://www.linkedin.com/in/evelyyyn-du/"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.hackerrank.com/profile/vickydu1213"><img align="left" alt="Evelyn's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /><a href="https://www.kaggle.com/evelynduu"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" /><a href="https://github.com/Evelyyyynnnn"><img align="left" alt="Evelyn's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+
+<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
+<!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
+<!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
+
 
 <br>
 <br>
