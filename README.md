@@ -31,6 +31,7 @@ I am an upcoming summer intern as a Quantitative Researcher
 <p align="center" style="font-size: 40px; font-weight: bold;">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 </p>
+<br>
 
 
 <b>💡 Skillset Zone</b>
