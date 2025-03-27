@@ -15,10 +15,16 @@
 
 Welcome to my page.
 
-I was born in China 🇨🇳, and I am now is an upcoming summer intern as the Quantitative Researcher
+I was born and raised in China 🇨🇳 before coming to the United States.
+I am an upcoming summer intern as a Quantitative Researcher
+
+
+
+<b>🎓 Education Zone</b>
 - *[M.E.N.G in Operational Research and Informational Engineering of Cornell University](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
 - *[B.S. in Data Science and Accounting of Renmin University of China](https://mbaen.rmbs.ruc.edu.cn/)*
 
+<b>💡 Skillset Zone</b>
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
 - 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
