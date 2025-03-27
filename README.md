@@ -36,7 +36,7 @@ Btw, I'm also an artist.
 <b>⚡ Developing Zone</b>
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img width="400em" src="https://github.com/Evelyyyynnnn/github-stats/generated/overview.svg" /> 
+  <img width="400em" src="https://github.com/Evelyyyynnnn/github-stats/blob/master/generated/overview.svg" /> 
   <img width="400em" src="https://github.com/Evelyyyynnnn/github-stats/blob/master/generated/languages.svg"/>
 </p>
 
