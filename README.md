@@ -15,22 +15,17 @@
 
 Welcome to my page.
 
-I was born in China 🇨🇳, now studying as a graduate at 🇺🇸 Cornell as an upcoming summer intern as the Quantitative Researcher
+I was born in China 🇨🇳, and I am now is an upcoming summer intern as the Quantitative Researcher
 - *[M.E.N.G in Operational Research and Informational Engineering](https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca/meng-resources/orie-meng-handbook-2024-2025)*
 - *[B.S. in Data Science and Accounting](https://mbaen.rmbs.ruc.edu.cn/)*
 
-I also love coding for Software Engineering and Machine Learning Engineer especially in the financial industry.
-
 Btw, I'm also an artist.
 
-
-- 👋 Hi! I’m Kai Cheng. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
 - 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
 - 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
-
 
 
 <br>
