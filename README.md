@@ -38,6 +38,12 @@ I am an upcoming summer intern as a Quantitative Researcher
 
 <b>💡 Skillset Zone</b>
 
+<!-- 👇 简历性描述 -->
+<ul>
+  <li>💻 Proficient in Python, Java, C/C++.</li>
+  <li>🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.</li>
+  <li>👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.</li>
+</ul>
 
 <table>
   <tr>
@@ -65,13 +71,6 @@ I am an upcoming summer intern as a Quantitative Researcher
 
 </p>
 
-<!-- 👇 简历性描述 -->
-<ul>
-  <li>💻 Proficient in Python, Java, C/C++.</li>
-  <li>🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.</li>
-  <li>👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.</li>
-</ul>
-
 </td>
 <td valign="top" width="40%">
 
@@ -83,33 +82,6 @@ I am an upcoming summer intern as a Quantitative Researcher
 </td>
   </tr>
 </table>
-
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
-
-
-- 💻 Proficient in Python, Java, C/C++.
-- 🛠️ Interested in AI/ML, NLP, LLMs, Quant Research, and Startup.
-- 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
-
-
-![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=Evelyyyynnnn&show_icons=true&theme=dark)
-
 
 
 Btw, I'm also an artist.
